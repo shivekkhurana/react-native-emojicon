@@ -1,0 +1,28 @@
+{
+  "name": "react-native-emojicon",
+  "version": "1.0.0",
+  "description": "Emoji icons for your react native projects.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shivekkhurana/react-native-emojicon.git"
+  },
+  "keywords": [
+    "emoji",
+    "icons",
+    "react-native",
+    "react",
+    "ui",
+    "ux",
+    "icon"
+  ],
+  "author": "Shivek Khurana",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/shivekkhurana/react-native-emojicon/issues"
+  },
+  "homepage": "https://github.com/shivekkhurana/react-native-emojicon#readme"
+}
