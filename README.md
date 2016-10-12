@@ -1,8 +1,9 @@
 ##React Native Emojicon
 ###Emoji Vectors for your react native apps.
 
-#😀😬😁😂😃😄😅😆😇😉
+#
 
+### Demo
 http://imgur.com/a/qymyr
 
 #### Inspiration
@@ -15,7 +16,7 @@ And this library came into being.
 #### Installation
 
 ```
-**npm** install react-native-emojicon
+npm install react-native-emojicon
 ```
 
 #### Usage
