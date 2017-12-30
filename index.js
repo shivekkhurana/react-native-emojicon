@@ -1,6 +1,7 @@
-import React, {Component, PropTypes} from 'react';
+import React, {Component} from 'react';
 import {Text, Platform} from 'react-native';
 import Mapper from 'react-native-emojicon/mapper';
+import PropTypes from 'prop-types';
 
 class Emojicon extends Component {
   render() {
