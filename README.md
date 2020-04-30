@@ -1,25 +1,29 @@
-##React Native Emojicon
-###Emoji Vectors for your react native apps.
+# React Native Emojicon
+## Emoji Vectors for your react native apps.
 
-#
 
-### Demo
+
+## Demo
 http://imgur.com/a/qymyr
 
-#### Inspiration
+|Android|iOs|
+|-------|----|
+|![Android Demo Gif](https://i.imgur.com/Nq2zNrA.gif)|![iOs Demo Gif](https://i.imgur.com/CieRmy7.gif)|
+
+## Inspiration
 While building with react native, it was a common routine to pull in the awesome [react-native-vector-icons](https://github.com/oblador/react-native-vector-icons) library, but we already have so many pretty icons, inbuilt into the phone.
 
 Emojis are used widely for communication, how about using them to develop UI ?
 And this library came into being.
 
 
-#### Installation
+## Installation
 
 ```
 npm install react-native-emojicon
 ```
 
-#### Usage
+## Usage
 
 ```
 	...
@@ -38,18 +42,18 @@ npm install react-native-emojicon
 	}
 ```
 
-##### Emoji Name
+## Emoji Name
 The name prop can be a any valid name from the following list :
 http://www.fileformat.info/info/emoji/list.htm
 
 Spaces are replaced with hyphen `-` or underscore `_`.
 So `alarm clock` from the list can be written as both `alarm-clock` and `alarm_clock` 
 
-##### Licence
+## Licence
 
 The MIT License
 
-Copyright (c) 2010-2016 Shivek Khurana
+Copyright (c) 2016-Present Shivek Khurana
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
